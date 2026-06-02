@@ -5,5 +5,5 @@
   "runs-on": "ubuntu-latest",
   "shell": "pwsh",
   "MicrosoftTelemetryConnectionString": "",
-  "templateSha": "1ff1803c15207081cc4d27abae6c81c4735a266f"
+  "templateSha": "7ebdb308d35cce1cae3d911be3d15c4d43f8edcc"
 }
